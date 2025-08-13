@@ -15,6 +15,7 @@ function App() {
           />
         </Link>
         <Link
+          // to={"/create-post"}
           to={"/create-post"}
           className=" text-white px-4 py-2 rounded-md font-inter bg-[#4649ff] font-medium "
         >

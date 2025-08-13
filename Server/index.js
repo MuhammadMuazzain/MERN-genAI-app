@@ -13,7 +13,7 @@ app.use("/api/v1/post", postRoutes);
 app.use("/api/v1/AiIMAGE", aiImageRoutes);
 
 app.get("/", async (req, res) => {
-  res.send("Hello From Kalpana");
+  res.send("Hello From Muazzyn");
 });
 
 const StartServer = () => {
